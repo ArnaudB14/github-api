@@ -1,0 +1,9 @@
+@use  'src/styles/vars';
+
+.app {
+  width: 700px;
+  margin: 0 auto;
+  background-color: white;
+  min-height: 100vh;
+  padding: 1rem;
+}
